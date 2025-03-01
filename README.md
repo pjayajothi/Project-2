@@ -4,7 +4,7 @@ Using Gobsuter to brute forcing directories on web servers
 ## Objective
 
 Using Gobuster, a software tool to brute force directories on web servers, to see if I can find a list of potential pages or directory names and try accessing a website with each of them.
-Note: This activity will be done using a Linux and Windows OS while trying to complete a challenge from TryHackMe- Pickle Rick, A Rick and Morty CTF.
+Note: This activity will be done using a Linux and Windows OS while trying to complete a challenge from TryHackMe- <a href="https://tryhackme.com/room/picklerick">Pickle Rick</a>, A Rick and Morty CTF.  
 
 ### Skills Learned
 
