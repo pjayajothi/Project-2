@@ -1,5 +1,4 @@
 # Gobuster
-Using Gobsuter to brute forcing directories on web servers
 
 ## Objective
 
@@ -14,8 +13,8 @@ Note: This activity will be done using a Linux and Windows OS while trying to co
 
 ## Steps
 
-*Ref 1: Network Diagram- Physical*
-<img src="https://itexamanswers.net/wp-content/uploads/2022/01/2022-01-04_051107.jpg" alt="Wiring Closet Overview">
+*Ref 1: *
+<img src="">
 
-*Ref 2: Network Diagram- Logical*
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20230304231950/Screenshot-(74).png" alt="Logical Connections Overview">
+*Ref 2: *
+<img src="">
