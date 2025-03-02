@@ -29,7 +29,7 @@ Gaining insight into how attackers discover vulnerabilities.
 Understanding the importance of securing web applications against directory brute-forcing attacks.
 
 ### Tools Used
-<a href="https://github.com/OJ/gobuster"><img src="https://img.shields.io/badge/-Gobuster-212C42?style=flat&logo=tryhackme&logoColor=white" /></a>
+<a href="https://github.com/OJ/gobuster"><img src="https://img.shields.io/badge/-Gobuster-white" /></a>
 <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white" /></a>
 
 ## Steps
