@@ -18,7 +18,7 @@ Recognizing common directory structures used by different web frameworks and CMS
 ### 4. HTTP Protocol & Status Code Interpretation
 Learning to analyze HTTP response codes (e.g., 200 OK, 403 Forbidden, 404 Not Found).
 Understanding server responses to identify potential security misconfigurations.
-###5. Automation & Scripting
+### 5. Automation & Scripting
 Running automated scans efficiently using Gobuster.
 Integrating Gobuster into scripts for more advanced enumeration tasks.
 ### 6. Performance Optimization
@@ -35,6 +35,9 @@ Understanding the importance of securing web applications against directory brut
 ## Steps
 1. First to install Gobuster onto the system will be using. You can do this by either
    sudo apt install gobuster  or downloading it straight from the <a href="https://github.com/OJ/gobuster">Git repo</a>
+   We then extract the files in a folder named Gobuster
+
+2. 
 
 *Ref 1: *
 <img src="">
