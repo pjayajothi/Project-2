@@ -3,7 +3,7 @@
 ## Objective
 
 Using Gobuster, a software tool to brute force directories on web servers, to see if I can find a list of potential pages or directory names and try accessing a website with each of them.
-Note: This activity will be done using a Linux and Windows OS while trying to complete a challenge from TryHackMe- <a href="https://tryhackme.com/room/picklerick">Pickle Rick</a>, A Rick and Morty CTF.  
+Note: This activity will be done using a Linux OS VM while trying to complete a challenge from TryHackMe- <a href="https://tryhackme.com/room/picklerick">Pickle Rick</a>, A Rick and Morty CTF.  
 
 ## Skills Learned
 ### 1. Penetration Testing & Ethical Hacking Skills
@@ -29,9 +29,12 @@ Gaining insight into how attackers discover vulnerabilities.
 Understanding the importance of securing web applications against directory brute-forcing attacks.
 
 ### Tools Used
+<a href="https://github.com/OJ/gobuster"><img src="https://img.shields.io/badge/Gobuster-Active-blue" /></a>
 <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white" /></a>
 
 ## Steps
+1. First to install Gobuster onto the system will be using. You can do this by either
+   sudo apt install gobuster  or downloading it straight from the <a href="https://github.com/OJ/gobuster">Git repo</a>
 
 *Ref 1: *
 <img src="">
